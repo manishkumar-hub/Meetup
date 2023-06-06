@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1023513107666",
+    "project_id": "meetup-c2a01",
+    "storage_bucket": "meetup-c2a01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023513107666:android:0caff284654815460ee10b",
+        "android_client_info": {
+          "package_name": "com.example.zoom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023513107666-9e8i92r953jem0g125hpvfv07p2c2s88.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zoom",
+            "certificate_hash": "4c97eb773e9becd07c993ef9e870b046b638b1b2"
+          }
+        },
+        {
+          "client_id": "1023513107666-2n1siec26m960eav41sd88juhvfddlik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABOMPr2ik5zdD2GJcDrCd3leFHO-vKl8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023513107666-2n1siec26m960eav41sd88juhvfddlik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
